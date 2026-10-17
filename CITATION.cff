@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use OpenCoder, please cite it using these metadata."
+title: "OpenCoder: The Open Source Version of Claude Code"
+type: software
+authors:
+  - family-names: "Formuli"
+    given-names: "Abdullah"
+    email: "authrainmedia@gmail.com"
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+url: "https://github.com/authrain-cloud-abdullahformuli/opencoder"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/opencoder"
+license: Apache-2.0
+keywords:
+  - claude-code
+  - coding-agent
+  - ai-sdk
+  - mcp
+  - react-ink
+  - dev-tools
+  - terminal-ui
